@@ -1,17 +1,15 @@
 Here are the steps to get it working:
 
 To install necessary software: 
-1. install  node from http://nodejs.org/ - there is one click windows installer available
-    if installed node via Visual Studio it might be a very old version 
+1. install  node from http://nodejs.org/ 
 
 2. One time install of dependencies, run 2 commands:
      npm install -g gulp 
      npm install 
-   in the DynamicFormsDirectory. npm binary comes with nodejs, it should be added to your PATH by installer    
+
 
 To run it after you installed just run:
      gulp 
-   in the DynamicForms Directory   
    
    local browser runs at http://localhost:4000
    
